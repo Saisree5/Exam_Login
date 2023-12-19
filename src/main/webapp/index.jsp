@@ -22,7 +22,7 @@
 <body>
 <h1>
 Username: <input id="u" /><br/><br/>
-Password: <input type="password id="p"/><br/><br/>
+Password: <input type="password" id="p"/><br/><br/>
 <input type="button" value="submit" onclick="fun()"/>
 </h1>
 </body>
